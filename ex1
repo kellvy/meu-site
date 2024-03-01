@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="whith=device-whidth, initial-scale=1.0">
+    <title> trabalhando com tabelas</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>id</td>
+            <td>profuto</td>
+            <td>valor</td>
+            <td>preço</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>camisa bem bonita</td>
+            <td>muito grande</td>
+            <td>R$ 200,00</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>bola amarela</td>
+            <td>pequeno</td>
+            <td>R$ 2,00</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+            
